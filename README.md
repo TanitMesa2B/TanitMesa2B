@@ -20,6 +20,7 @@
 <br>
 
 
-## Here there are some of the games that I usually play to in my spare time:
+## Here there are some of my favorite games:
+
 
 
