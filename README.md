@@ -22,5 +22,34 @@
 
 ## Here there are some of my favorite games:
 
+<table style="width:100%">
+  <tr>
+  <td>
+  		<img src="games/A_YAKUZA.png">
+	</a>
+	</td>
+  <td>
+  		<img src="games/B_BULLY.png">
+	</a>
+	</td>
+  </tr>
+  <tr>
+  <td>
+  		<img src="games/C_POKEMON.png">
+	</a>
+	</td>
+	<td>
+  		<img src="games/D-STARDEW.png">
+	</a>
+	</td>
+	</td>
+    		<img src="games/E_SKYRIM.png">
+  </a>
+	</td>
+	</td>
+    		<img src="games/PERSONA.png">
+    </tr>
+ 
+</table>
 
 
