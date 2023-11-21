@@ -1,6 +1,7 @@
 # Hi there! My name is Tanit. 👽
 - I'm a student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/). Currently studying Animation 3D and Videogames Development. 
-- My ArtStation account  [<img src="artstation_logo_icon_145479.png" width=48>](https://www.artstation.com/tanitmesa)
+- My ArtStation account :
+ [<img src="artstation_logo_icon_145479.png" width=48>](https://www.artstation.com/tanitmesa)
 ## Here are some of the softwares that I know:
 [![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
 <br>
