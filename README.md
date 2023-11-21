@@ -26,21 +26,19 @@
   <tr>
   <td>
   		<img src="games/A_YAKUZA.png">
-	</a>
+</a>
 	</td>
   <td>
   		<img src="games/B_BULLY.png">
-	</a>
+</a>
 	</td>
-  </tr>
-  <tr>
   <td>
   		<img src="games/C_POKEMON.png">
 	</a>
 	</td>
 	<td>
   		<img src="games/D-STARDEW.png">
-	</a>
+</a>
 	</td>
 	</td>
     		<img src="games/E_SKYRIM.png">
