@@ -19,6 +19,37 @@
 [![OBS](https://img.shields.io/badge/OBS-999999?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=101010)]()
 <br>
 
+## Here there's some of my art:
+
+<table style="width:100%">
+  <tr>
+  <td>
+	<a href="https://www.artstation.com/artwork/eJOgoX">
+  		<img src="qxarax-demonio6.jpg">
+	</a>
+	</td>
+  <td>
+	<a href="https://www.artstation.com/artwork/vDZVB3">
+  		<img src="qxarax-1b-noraescudero-t4.gif">
+	</a>
+	</td>
+  </tr>
+  <tr>
+  <td>
+	<a href="https://www.artstation.com/artwork/04za1Y">
+  		<img src="qxarax-si.jpg">
+	</a>
+	</td>
+	<td>
+	<a href="https://www.artstation.com/artwork/5v0YAJ">
+  		<img src="qxarax-noraescudero1.jpg">
+	</a>
+	</td>
+	</td>
+    </tr>
+ 
+</table>
+
 
 ## Here there are some of my favorite games:
 
