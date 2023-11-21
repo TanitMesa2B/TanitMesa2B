@@ -25,24 +25,24 @@
   <tr>
   <td>
 	<a href="https://www.artstation.com/artwork/eJOgoX">
-  		<img src="qxarax-demonio6.jpg">
+  		<img src="Art/tanit-mesa-tanitmesapocion.jpg">
 	</a>
 	</td>
   <td>
 	<a href="https://www.artstation.com/artwork/vDZVB3">
-  		<img src="qxarax-1b-noraescudero-t4.gif">
+  		<img src="Art/tanit-mesa-t4tanitmesa.gif">
 	</a>
 	</td>
   </tr>
   <tr>
   <td>
 	<a href="https://www.artstation.com/artwork/04za1Y">
-  		<img src="qxarax-si.jpg">
+  		<img src="Art/tanit-mesa-caritared.jpg">
 	</a>
 	</td>
 	<td>
 	<a href="https://www.artstation.com/artwork/5v0YAJ">
-  		<img src="qxarax-noraescudero1.jpg">
+  		<img src="Art/tanit-mesa-frenteartst.jpg">
 	</a>
 	</td>
 	</td>
