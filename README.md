@@ -1,5 +1,5 @@
 # Hi there! My name is Tanit. 👽
-- I'm a student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/). Currently studying Animation 3D and Videogames Development. 
+- I'm a student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/). Currently studying an UX/UI course. 
 - My ArtStation account :
  [<img src="artstation_logo_icon_145479.png" width=48>](https://www.artstation.com/tanitmesa)
 ## Here are some of the softwares that I use:
